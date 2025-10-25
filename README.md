@@ -177,3 +177,5 @@ Support: Community & Enterprise tiers available
 # Touch update: 1761366474
 
 # PR Merge: 2025-10-25 - feature/merge-6521
+
+# PR Update: 2025-10-25 - docs/update-6969
